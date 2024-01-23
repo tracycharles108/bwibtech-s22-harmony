@@ -5,7 +5,7 @@ In Spring 2022, Bruin Women in Business (BWIB) Tech Committee worked on a projec
 Our deliverables of the project are:
 - Final presentation slides for Committee Showcase
 - Product Requirements Document
-- Figma prototype, linked in the PRD
+- Figma prototype, linked here: https://www.figma.com/proto/YcL0bDnJdfxlPWaVS7qNX3/Chat-App-Homepage-Design-(Community)-(Copy)?node-id=3979-2316&scaling=scale-down&page-id=3975%3A673&starting-point-node-id=3975%3A851
 
 The slides and PRD are attached in this repo.
 
